@@ -1,8 +1,8 @@
 # Data-Visualization- Group Project-
 
-Data Explora4on:
+Data Exploration:
 
-• U1lized Python and libraries like NLTK to perform basic Natural Language Processing
+• Utilized Python and libraries like NLTK to perform basic Natural Language Processing
 (NLP) tasks such as Named En1ty Recogni1on (NER) on the chosen dataset.
 
 2. Web Integra4on:
